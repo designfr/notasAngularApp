@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'app/components/header/header.css';
+@import 'app/components/home/home.css';
+@import 'app/components/listItem/listItem.css';
+@import 'app/app.component.css';
+
+html, body {
+    background-color: #fdfffc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: #7f8188;
+}
+
+.btn-info {
+    color: #7f8188;
+    background-color: #23395b;
+    border-color: #23395b;
+}
